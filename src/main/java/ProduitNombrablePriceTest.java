@@ -1,6 +1,3 @@
-public class ProduitNombrablePrice implements ProductPricer {
+public class ProduitNombrablePriceTest {
 
-    double price(double price) {
-        return 0;
-    }
 }
